@@ -1,4 +1,4 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/admin8800/frontend
+	url = https://github.com/admin8800/s-ui/tree/main/frontend
 	branch = main
